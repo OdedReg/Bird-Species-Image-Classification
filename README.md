@@ -30,6 +30,10 @@ The project includes three main approaches:
 | ResNet-34       | 0.285467   | 0.349107  | 0.918529  | 0.899048 | 59.407                 | 13     |
 | XGBoost         | N/A        | N/A       | 1.000000  | 0.584000 | 43.441                 | N/A    |
 
+DenseNet-121 achieved the best test results:
+
+<img src="https://github.com/OdedReg/Bird-Species-Image-Classification/assets/125364181/58e7cf88-ac4e-4bae-8a34-1d29325d8331" width="900">
+
 ## Conclusions
 - DenseNet-121 outperformed other models with a test accuracy of 93.5%.
 - Transfer learning proved effective for training complex networks  within a relatively short timeframe.
