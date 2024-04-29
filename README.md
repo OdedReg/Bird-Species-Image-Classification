@@ -1,6 +1,8 @@
 <h1 align="center">Bird Species Image Classification</h1>
 
-![Bird Species](https://github.com/OdedReg/Birds-Classification/blob/main/Birds.jpg)
+<p align="center">
+  <img src="https://github.com/OdedReg/Birds-Classification/blob/main/Birds.jpg" width="800">
+</p>
 
 ## Table of Contents
 - [Overview](#overview)
