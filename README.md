@@ -1,4 +1,5 @@
-# Bird Species Image Classification
+<h1 align="center">Bird Species Image Classification</h1>
+
 ![Bird Species](https://github.com/OdedReg/Birds-Classification/blob/main/Birds.jpg)
 
 ## Table of Contents
